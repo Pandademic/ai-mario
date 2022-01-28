@@ -15,3 +15,17 @@
 #start , #start{
     font-size:22px;
 }
+.credits{
+    color:aqua;
+    bottom:0;
+    position:fixed;
+    background-color:black;
+}
+.modal-dialog{
+    width:90%;
+}
+.ii{
+    display:inline-block;
+    width:45%;
+
+}
